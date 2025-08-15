@@ -1,2 +1,9 @@
-# kewps_report_pdf
-This is KEWPS pdf format that malaysia goverment in any sector use to handle in out stock  . 
+# KEWPS Report PDF
+
+This project contains the KEWPS PDF format commonly used by Malaysian government sectors for managing stock in/out records.
+
+## Installation
+1. Download the entire folder and place it inside the `htdocs` directory in your XAMPP installation.  
+   Example: `C:\xampp\htdocs`
+2. Open the desired file in your browser via:  
+   `http://localhost/<folder_name>/<file_name>.php`
